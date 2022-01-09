@@ -18,3 +18,8 @@
     - allows auto push notifications
 
 - Using mongo db and mlabs 
+
+# async vs sync
+
+- sync is blocking
+- networking/file system access are both slow 
